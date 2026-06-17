@@ -43,7 +43,11 @@ Natural disasters such as earthquakes, landslides, and building collapses often 
 
 ## Block Diagram
 
-![Block Diagram](images/blockdiagram.png)
+![Block Diagram](images/block_diagram.png)
+
+## Circuit Diagram
+
+![Circuit Diagram](circuit_diagram.jpg)
 
 ## Results
 
@@ -54,12 +58,10 @@ Natural disasters such as earthquakes, landslides, and building collapses often 
 - Two-way communication between rescuers and victims
 - Improved situational awareness during rescue operations
 
-## Future Improvements
+## Results
 
-- Thermal camera integration for heat-based human detection
-- GPS-based location tracking
-- Longer battery life and power optimization
-- Enhanced detection accuracy using advanced deep learning models
+![Results](result.jpg)
+
 
 ## Publication
 
