@@ -41,6 +41,10 @@ Natural disasters such as earthquakes, landslides, and building collapses often 
 - DC Motors
 - Tank Chassis
 
+## Block Diagram
+
+![Block Diagram](images/blockdiagram.png)
+
 ## Results
 
 - Real-time human detection
