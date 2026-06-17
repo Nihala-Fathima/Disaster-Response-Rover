@@ -43,11 +43,12 @@ Natural disasters such as earthquakes, landslides, and building collapses often 
 
 ## Block Diagram
 
-![Block Diagram](images/block_diagram.png)
+![System Block Diagram](images/block_diagram.jpg)
 
 ## Circuit Diagram
 
-![Circuit Diagram](circuit_diagram.jpg)
+![Circuit Diagram](images/circuit_diagram.jpg)
+
 
 ## Results
 
@@ -60,8 +61,7 @@ Natural disasters such as earthquakes, landslides, and building collapses often 
 
 ## Results
 
-![Results](result.jpg)
-
+![Results](images/results.jpg)
 
 ## Publication
 
