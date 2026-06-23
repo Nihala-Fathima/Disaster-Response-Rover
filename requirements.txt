@@ -1,0 +1,9 @@
+flask
+numpy
+tensorflow
+opencv-python
+pyttsx3
+SpeechRecognition
+picamera2
+Adafruit-DHT
+RPi.GPIO
